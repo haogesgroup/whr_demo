@@ -8,6 +8,9 @@ import java.io.OutputStream;
 import org.apache.commons.net.ftp.FTP;
 import org.apache.commons.net.ftp.FTPClient;
 
+/**
+ * test
+ */
 public class TestFtp {
 
   public static void main(String[] args) throws IOException {
